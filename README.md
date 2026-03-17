@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Burak Beyter</h1>
-<h3>Full-Stack Developer · CS @ Istanbul Atlas University · Class of 2026</h3>
+<h3>Full-Stack Developer · CE @ Istanbul Atlas University</h3>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-bb--portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://bb-portfolio-six.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-burak--beyter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/burak-beyter-a35a26260)
@@ -25,6 +25,7 @@
 
 **Backend**
 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
@@ -46,29 +47,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-
-![Burak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beyterburak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beyterburak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9)
-
-</div>
-
----
-
-### 💼 Experience
-
-| Period | Company | Role |
-|--------|---------|------|
-| Jul – Aug 2025 | **DeFacto Teknoloji** | Software Engineering Intern |
-| Jul – Aug 2024 | **GainWells** | Software Engineering Intern |
-
-> Clean Architecture · DDD · CQRS · SignalR · RabbitMQ · Firebase Auth
-
----
-
-<div align="center">
-<i>5+ projects shipped · 2+ internships · 10+ technologies</i>
+<i>2+ internships &nbsp;·&nbsp; 15+ projects completed &nbsp;·&nbsp; 10+ technologies</i>
 </div>
